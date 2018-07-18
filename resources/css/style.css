@@ -1,38 +1,29 @@
 body {
   background-color: black;
-  font-family:verdana;
   text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 
-.discover h1 {
-  font-weight:normal;
-  font-size:50px;
-  color:white;
-}
-.personal h1 {
-  font-weight:300;
-  font-size: 42px;
-  color:white;
+.cta {
+  color: aquamarine;
+  font-size: 16px;
 }
 
-.phone h1 {
-  font-weight:300;
-  color:white;
-  font-size:42px;
+h1 {
+  font-size: 50px;
+  font-weight: normal;
 }
 
 h2 {
-  color:gray;
-  font-size:21px;
+  font-size: 42px;
 }
 
-.phone h2 {
-  text-align:right;
-
+p {
+  font-size: 21px;
+  color: gray;
 }
 
-h3 {
-  color:aquamarine;
-  font-size:16px;
-  text-decoration: underline;
-}
+.footer {
+  text-align: right;
+} 
